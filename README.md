@@ -1,5 +1,5 @@
 # Proyek Analisis Data "_Bike Sharing Dataset_"
-# - _WheelWise_🎯 : _Bike Sharing User Insights Navigator Dashboard_ - 
+# - _WheelWise_ 🎯 : _Bike Sharing User Insights Navigator Dashboard_ - 
 Tugas ini merupakan Proyek Akhir untuk menyelesaikan Course 'Learn Data Analysis with Python'. Data adalah sekumpulan fakta yang direpresentasikan ke berbagai macam bentuk misalnya angka, gambar, video. teks, hasil pengukuran, dll. Data yang terus menerus berkembang seiring perkembangan zaman kini sering dimanfaatkan oleh masyarakat dalam berbagai macam bidang. Salah satu pemanfaatan yang sangat sering dilakukan saat ini adalah dalam pengambilan sebuah keputusan.
 Usaha untuk dapat mendapatkan sebuah keputusan tentu tidak jauh pada pembahasan analisis data. Analisis data merupakan sebuah proses mengumpulkan, mentransformasi, dan menata data untuk dapat menarik sebuah kesimpulan, membuat prediksi, maupun dapat memberikan pertimbangan yang tepat dalam mengambil sebuah keputusan. Orang yang berprofesi dalam bidang analisis data ini sering akrab dikenal dengan "Data Analyst."
 
