@@ -32,6 +32,7 @@ SUBMISSION
 - **notebook.ipynb**
 - **README.md**
 - **requirements.txt**
+- **url.txt**
       
 ## B. Membuat Dashboard dengan _Streamlit_
 Dashboard yang dibuat adalah dashboard yang memberikan visualisasi yang informatif dan interaktif tentang pengguna sepeda berbagi, termasuk statistik jumlah pengguna, tren penggunaan sepeda berbagi berdasarkan bulan, hari, dan musim. Dashboard ini memungkinkan pengguna untuk mengeksplorasi data dengan mudah dan mendapatkan wawasan yang lebih baik tentang pola penggunaan sepeda berbagi serta dampaknya terhadap lalu lintas, lingkungan, dan kesehatan di kota.
