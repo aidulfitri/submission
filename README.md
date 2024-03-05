@@ -12,8 +12,8 @@ Proyek ini akan berisi beberapa hal yang tentu saja berhubungan dengan analisis 
 
 Berikut adalah penjabaran dari tugas proyek yang telah saya buat:
 ## A. Struktur File
-**Submission**
-- dashboard
+SUBMISSION
+- **dashboard**
 
    main_data.csv
 
@@ -21,7 +21,7 @@ Berikut adalah penjabaran dari tugas proyek yang telah saya buat:
 
    LogoPNG.png
   
-- dataset
+- **dataset**
 
    day.csv
 
@@ -29,16 +29,16 @@ Berikut adalah penjabaran dari tugas proyek yang telah saya buat:
 
    Readme.txt
   
-- notebook.ipynb
-- README.md
-- requirements.txt
+- **notebook.ipynb**
+- **README.md**
+- **requirements.txt**
       
 ## B. Membuat Dashboard dengan _Streamlit_
 Dashboard yang dibuat adalah dashboard yang memberikan visualisasi yang informatif dan interaktif tentang pengguna sepeda berbagi, termasuk statistik jumlah pengguna, tren penggunaan sepeda berbagi berdasarkan bulan, hari, dan musim. Dashboard ini memungkinkan pengguna untuk mengeksplorasi data dengan mudah dan mendapatkan wawasan yang lebih baik tentang pola penggunaan sepeda berbagi serta dampaknya terhadap lalu lintas, lingkungan, dan kesehatan di kota.
 Bike Sharing Systems atau Sistem Sepeda Berbagi merupakan inovasi baru dari penyewaan sepeda tradisional dimana seluruh proses, mulai dari keanggotaan, penyewaan, hingga pengembalian telah otomatis. Melalui sistem ini, pengguna dapat dengan mudah menyewa sepeda dari suatu lokasi tertentu dan mengembalikannya di lokasi lain. Saat ini, terdapat lebih dari 500 program sepeda pinjam di seluruh dunia yang terdiri dari lebih dari 500 ribu sepeda. Sistem ini menarik perhatian besar karena perannya yang penting dalam masalah lalu lintas, lingkungan, dan kesehatan.
-Dengan menggunakan visualisasi data dan metode forecasting (peramalan) yang interaktif dan analisis yang mendalam, WheelWise memberikan pemahaman yang lebih baik tentang perilaku pengguna sepeda pinjam, menyediakan informasi yang berguna untuk pengambilan keputusan terkait transportasi, lingkungan, dan perencanaan kota.
+Dengan menggunakan visualisasi data dan metode _forecasting_ (peramalan) yang interaktif dan analisis yang mendalam, WheelWise memberikan pemahaman yang lebih baik tentang perilaku pengguna sepeda pinjam, menyediakan informasi yang berguna untuk pengambilan keputusan terkait transportasi, lingkungan, dan perencanaan kota.
 
-🔍 Berikut adalah link dari dashboard: https://aidulfitrim.streamlit.app/ 🔍
+🔍 **Berikut link dashboard: https://aidulfitrim.streamlit.app/** 🔍
 
 ## C. Dokumentasi Dashboard
 <img width="960" alt="Screenshot 2024-03-05 142635" src="https://github.com/aidulfitri/submission/assets/161487909/9df56e72-7f84-4247-bffc-413a47e59cfe">
